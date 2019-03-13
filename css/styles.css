@@ -1,3 +1,14 @@
 body {
 	background: blanchedalmond;
 }
+
+ul {
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	text-align: center;
+}
+
+a {
+	margin-right: 50px;
+}
